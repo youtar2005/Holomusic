@@ -21,8 +21,6 @@ Play chords in the air. Point at a **root** on one wheel and a **quality** on th
 7. [Using more fingers](#7-using-more-fingers)
 8. [Troubleshooting](#8-troubleshooting)
 
-The code snippets in sections 5-7 are starting points. Adapt them to the current `chord_wheel.py`; they have not all been run against a live camera.
-
 ---
 
 ## 1. Requirements and installation
